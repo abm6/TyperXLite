@@ -2,7 +2,7 @@
     <img src="https://github.com/abm6/TyperXLite/blob/main/build/TyperXLogo.png" alt="logo" style="width:200px;"/>
 </p>
 
-<center>A light weight typing emulator for bypassing copy paste restrictions.</center>
+<p align="center">A light weight typing emulator for bypassing copy paste restrictions.</p>
 
 
 This project is inspired by: https://github.com/Meghdut-Mandal/TyperX

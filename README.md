@@ -1,4 +1,6 @@
-# TyperXLite
+![image](https://github.com/abm6/TyperXLite/blob/main/build/TyperXLogo.png)
+
+
 A light weight typing emulator for bypassing copy paste restrictions.
 
 This project is inspired by: https://github.com/Meghdut-Mandal/TyperX

@@ -1,4 +1,6 @@
-![image](https://github.com/abm6/TyperXLite/blob/main/build/TyperXLogo.png)
+<p align="center">
+    <img src="https://github.com/abm6/TyperXLite/blob/main/build/TyperXLogo.png" alt="logo" style="width:200px;"/>
+</p>
 
 
 A light weight typing emulator for bypassing copy paste restrictions.

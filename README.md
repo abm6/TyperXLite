@@ -11,12 +11,19 @@ This is purely written in python and has some added features like window resizin
 
 ## How to use?
 
-Download the Executable from here: https://github.com/abm6/TyperXLite/releases/download/v1.0/typerXLite.exe
+Download the Windows Executable from here: https://github.com/abm6/TyperXLite/releases/download/v1.0/typerXLite.exe
+
+Linux Application: https://github.com/abm6/TyperXLite/releases/download/1.1/typerXLite
 
 ## You can also run it with python installed in the system:
 
 ```
 python TyperXLite.py
+```
+
+## Requirements for python
+```
+pip install tkinter pynput
 ```
 
 ## Screens

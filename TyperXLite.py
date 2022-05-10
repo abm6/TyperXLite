@@ -15,7 +15,7 @@ class UI:
         self.root.maxsize(800, 600)
 
     def createWidgets(self, inputWindow=None):
-        keyStrokeDelayValues = ["0.01", "0.05", "0.07", "0.10"]
+        keyStrokeDelayValues = ["0.001","0.01", "0.05", "0.07", "0.10"]
         startDelayValues = ["2", "5", "10", "15"]
 
         # Top Frame and subframes

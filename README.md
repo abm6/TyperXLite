@@ -11,7 +11,7 @@ This is purely written in python and has some added features like window resizin
 
 ## How to use?
 
-Download the Windows Executable from here: https://github.com/abm6/TyperXLite/releases/download/v1.0/typerXLite.exe
+Download the Windows Executable from here: https://github.com/abm6/TyperXLite/releases/download/v1.11/typerXLite.exe
 
 Linux Application: https://github.com/abm6/TyperXLite/releases/download/1.1/typerXLite
 

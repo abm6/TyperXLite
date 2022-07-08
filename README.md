@@ -28,4 +28,4 @@ pip install tkinter pynput
 
 ## Screens
 
-![image](https://github.com/abm6/TyperXLite/blob/main/screens/screen1.png)
+![image](https://github.com/abm6/TyperXLite/blob/main/screens/screen1.gif)
